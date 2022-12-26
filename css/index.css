@@ -1,0 +1,17 @@
+.odin-recipe-title {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+
+.burger-recipe-title {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+.subscribe-button {
+    background-color: orange;
+    font-size: 18px;
+}
